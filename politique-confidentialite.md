@@ -12,7 +12,7 @@ Nous respectons votre vie privée.
 
 
 # Que recueillons-nous et comment cette information est-elle utilisée ?
-Aucune information personnelle n'est receuillie ni utilisée.
+Aucune information personnelle n'est recueillie ni utilisée.
 
 # À qui puis-je m'adresser ?
 vous pouvez contacter à cette adresse mail : gataj.lefranc+appli@fondation-lamap.org.
